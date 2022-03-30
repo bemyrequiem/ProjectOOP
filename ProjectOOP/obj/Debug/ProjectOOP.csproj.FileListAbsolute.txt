@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\ProjectOOP\ProjectOOP\obj\Debug\ProjectOOP.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\ProjectOOP\ProjectOOP\obj\Debug\ProjectOOP.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ProjectOOP\ProjectOOP\bin\Debug\ProjectOOP.exe.config
+C:\Users\user\Desktop\ProjectOOP\ProjectOOP\bin\Debug\ProjectOOP.exe
+C:\Users\user\Desktop\ProjectOOP\ProjectOOP\bin\Debug\ProjectOOP.pdb
+C:\Users\user\Desktop\ProjectOOP\ProjectOOP\obj\Debug\ProjectOOP.exe
+C:\Users\user\Desktop\ProjectOOP\ProjectOOP\obj\Debug\ProjectOOP.pdb
