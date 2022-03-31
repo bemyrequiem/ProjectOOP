@@ -18,6 +18,7 @@ namespace CMP1903M_Assessment_1_Base_Code
         {
             //List of vowels
             char[] vowels = { 'a', 'e', 'i', 'o', 'u', 'A', 'E', 'I', 'O', 'U' };
+            char[] punctuation = { '.', '!', '?' };
             //List of integers to hold the first five measurements:
             //1. Number of sentences
             //2. Number of vowels
@@ -33,7 +34,7 @@ namespace CMP1903M_Assessment_1_Base_Code
 
             foreach (char ch in input)
             {
-                if (ch == '.')
+                if (punctuation.Contains(ch))
                 {
                     values[0] += 1;
                 }
